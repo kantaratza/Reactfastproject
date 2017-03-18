@@ -14,5 +14,5 @@ with 3 people
                Student ID   |      Name/Surname         |  Github username   
      
      Credit by 57080501605     นาย กานตรัฐ ธนเมธาวีสกุล       kantaratza
-               57080501653     นาย อติรุจ เอกจิต
+               57080501653     นาย อติรุจ เอกจิต     xestilize
                57080501641     น.ส รัฐนันท์ จรัญนฤมล
