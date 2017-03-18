@@ -10,6 +10,9 @@ with 3 people
      Project--------start---to-----
      -\- Initialize -\-     <-----------(just imagine that it spining OK?)
      
-     Credit by 57080501605 นาย กานตรัฐ ธนเมธาวีสกุล
-               57080501653 นาย อติรุจ เอกจิต
-               57080501641 น.ส รัฐนันท์ จรัญนฤมล
+     
+               Student ID   |      Name/Surname         |  Github username   
+     
+     Credit by 57080501605     นาย กานตรัฐ ธนเมธาวีสกุล       kantaratza
+               57080501653     นาย อติรุจ เอกจิต
+               57080501641     น.ส รัฐนันท์ จรัญนฤมล
