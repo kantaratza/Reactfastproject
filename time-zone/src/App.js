@@ -1,19 +1,55 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import bg from './pic/bg.gif';
+import './css/App.css';
+import './css/bootstrap.css'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
+          <img src={bg} className="App-logo" alt="carindark" />
+          <h2>Time-zone Converter</h2>
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+
+                <div className="row" >
+                        <div className="col-md-3">
+                              <div className="col-md-12">
+                                <div className="container-fluid" >
+                                  <h3>Time</h3>
+                                </div>
+                              </div>
+                        </div>
+                        <div className="col-md-3">
+                              <div className="col-md-12">
+                                <div className="container-fluid" >
+                                  <h3>Zone</h3>
+                                </div>
+                              </div>
+                        </div>
+                        <div className="col-md-3">
+                              <div className="col-md-12">
+                                <div className="container-fluid" >
+                                  <h3>New-Zone</h3>
+                                </div>
+                              </div>
+                        </div> 
+                        <div className="col-md-3">
+                              <div className="col-md-12">
+                                <div className="container-fluid" >
+                                  <h3>New-Time</h3>
+                                </div>
+                              </div>
+                        </div>
+                </div>
+
       </div>
+
+
+
+
+
+
     );
   }
 }
