@@ -1,15 +1,7 @@
 # Reactfastproject
-10hr react challenge
-
-
-This is fast react Project challenge within 10 hr
+This is fast react Project
 with 3 people
-     2 screen
-     1 notebook
-     
-     Project--------start---to-----
-     -\- Initialize -\-     <-----------(just imagine that it spining OK?)
-     
+     3 notebook (1 for coding 2 for find info) 
      
                Student ID   |      Name/Surname         |  Github username   
      
